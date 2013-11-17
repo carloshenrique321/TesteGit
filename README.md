@@ -1,4 +1,8 @@
 TesteGit
 ========
 
-Your love is like a river...
+public class Teste{
+  publis static void main (String[] args){
+    System.out.println("Testando... ");
+  }
+}
